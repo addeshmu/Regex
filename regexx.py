@@ -1,4 +1,4 @@
-#courtesy :HackerRank
+#courtesy :HackerRank competetions
 import re
 
 Test_String = raw_input()
